@@ -1,1 +1,1 @@
-vless://a64f0cea-ca89-40e6-b316-b3badff1eb90@172.67.68.101:443?encryption=none&security=tls&sni=IsaA1.pAgEs.DEV&alpn=h2%2Chttp%2F1.1&fp=randomized&type=ws&host=ISAa1.PAGeS.deV&path=%2Fvlees_v2rayng%3Fed%3D2560#%F0%9F%94%92%20VL-WS-TLS%20%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F%20NA-172.67.68.101%3A443
+Magic tree here
