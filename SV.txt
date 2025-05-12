@@ -24,7 +24,7 @@ vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.176:8880?encryption=none&
 vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.183:8880?encryption=none&security=none&sni=pqh36v5.economy36top.shop&type=grpc#%F0%9F%87%BA%F0%9F%87%B8%5BSailarkhub%5D
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@88.216.187.57:8880?encryption=none&security=none&type=grpc#%5B%F0%9F%87%B3%F0%9F%87%B1%5Dt.me%2FSailarkhub%60
 vless://e4824193-4f54-453b-d037-88368e85ef0e@pqh25v6.car25benz.shop:8880?encryption=none&security=none&type=grpc#31%F0%9F%8E%89%40Sailarkhub
-vless://588f094b-431b-422c-b80b-007945037072@46.226.162.42:443?encryption=none&security=tls&sni=gbr01.abvpn.ru&fp=chrome&type=ws&path=%2Fwebsocket#11%F0%9F%8E%89%40oneclickvpnkeys
+vless://588f094b-431b-422c-b80b-007945037072@46.226.162.42:443?encryption=none&security=tls&sni=gbr01.abvpn.ru&fp=chrome&type=ws&path=%2Fwebsocket#11%F0%9F%8E%89%40Sailarkhub
 vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.144:8880?encryption=none&security=none&sni=pqh27v6.nature27.shop&type=grpc#%5B%F0%9F%87%BA%F0%9F%87%B8%5Dt.me%2FSailarkhub%60
 vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.162:8880?encryption=none&security=none&sni=pqh34v8.bloger34art.shop&type=grpc#%40Sailarkhub%60
 vless://588f094b-431b-422c-b80b-007945037072@de09.abvpn.ru:443?encryption=none&security=tls&sni=de09.abvpn.ru&fp=chrome&type=ws&path=%2Fwebsocket#%5B%F0%9F%87%A9%F0%9F%87%AA%5Dt.me%2FSailarkhub%60
