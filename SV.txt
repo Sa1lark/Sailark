@@ -99,3 +99,5 @@ vless://4a163a6f-1811-4697-ae10-732dfe9589ba@64.44.158.121:36800?encryption=none
 vless://e4824193-4f54-453b-d037-88368e85ef0e@pqh27v5.nature27.shop:8880?encryption=none&security=none&type=grpc#30%F0%9F%8E%89%40Sailarkhub
 vless://e4824193-4f54-453b-d037-88368e85ef0e@pqh25v6.car25benz.shop:8880?encryption=none&security=none&type=grpc#31%F0%9F%8E%89%40Sailarkhub
 vless://dfcf379e-2d92-514e-84ca-77cdb1bd73c6@5.253.30.9:8880?encryption=none&security=none&type=grpc&authority=&serviceName=vless-grpc&mode=gun#33%F0%9F%8E%89%40Sailarkhub
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1Zn@series-a2.varzesh360.co:443#%F0%9F%87%AC%F0%9F%87%A7GB-ahmad-mohsen
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1Zn@series-a2.samanehha.co:443#%F0%9F%87%AC%F0%9F%87%A7GB-mohsen-ahmad
